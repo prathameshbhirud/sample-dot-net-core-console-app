@@ -1,0 +1,11 @@
+C:\Prathamesh\Sample Codes\MyConsoleApp\bin\Debug\netcoreapp2.2\MyConsoleApp.deps.json
+C:\Prathamesh\Sample Codes\MyConsoleApp\bin\Debug\netcoreapp2.2\MyConsoleApp.runtimeconfig.json
+C:\Prathamesh\Sample Codes\MyConsoleApp\bin\Debug\netcoreapp2.2\MyConsoleApp.runtimeconfig.dev.json
+C:\Prathamesh\Sample Codes\MyConsoleApp\bin\Debug\netcoreapp2.2\MyConsoleApp.dll
+C:\Prathamesh\Sample Codes\MyConsoleApp\bin\Debug\netcoreapp2.2\MyConsoleApp.pdb
+C:\Prathamesh\Sample Codes\MyConsoleApp\obj\Debug\netcoreapp2.2\MyConsoleApp.csprojAssemblyReference.cache
+C:\Prathamesh\Sample Codes\MyConsoleApp\obj\Debug\netcoreapp2.2\MyConsoleApp.csproj.CoreCompileInputs.cache
+C:\Prathamesh\Sample Codes\MyConsoleApp\obj\Debug\netcoreapp2.2\MyConsoleApp.AssemblyInfoInputs.cache
+C:\Prathamesh\Sample Codes\MyConsoleApp\obj\Debug\netcoreapp2.2\MyConsoleApp.AssemblyInfo.cs
+C:\Prathamesh\Sample Codes\MyConsoleApp\obj\Debug\netcoreapp2.2\MyConsoleApp.dll
+C:\Prathamesh\Sample Codes\MyConsoleApp\obj\Debug\netcoreapp2.2\MyConsoleApp.pdb
